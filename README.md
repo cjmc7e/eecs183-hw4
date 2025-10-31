@@ -1,4 +1,4 @@
-# EECS 183/283A Homework 4: Speech Processing
+# EECS 183 Homework 4: Speech Processing
 
 This assignment consists of three parts: probing experiments, Automatic Speech Recognition (ASR), and Text-to-Speech (TTS).
 
@@ -57,11 +57,19 @@ Implement and train a transformer-based language model for TTS following CosyVoi
 
 **System**: Text → Text Tokens → [Your LM] → Speech Tokens → Mel → Audio
 
+**Grading** (based on WER):
+- < 70%: 15 points
+- < 50%: 20 points
+- < 45%: 25 points
+- < 40%: 30 points
+- < 35%: 35 points
+- < 30%: 40 points (full points)
+
 **Hardware**: GPU required (16GB+ VRAM). Training takes 8-12 hours.
 
 **Submission**: 
 - `submission_[YOUR_ID].txt` (auto-generated)
-- `HW4c.pdf` with all code and outputs
+- `hw4-c.pdf` with all code and outputs
 
 ---
 
