@@ -1,4 +1,4 @@
-# EECS 183 Homework 4: Speech Processing
+# EECS 183/283A Homework 4: Speech Processing
 
 This assignment consists of three parts: probing experiments, Automatic Speech Recognition (ASR), and Text-to-Speech (TTS).
 
